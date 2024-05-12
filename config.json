@@ -1,0 +1,17 @@
+{
+  "params":
+  {
+   "local_server": "True",
+    "local_uri": "mysql://root:@localhost/medical",
+    "proud_uri": "mysql://root:@localhost/medical",
+    "fb_url":"https://www.instagram.com/_shanky_99/",
+    "tw_url":"https://twitter.com/sanketharke99",
+    "gh_url":"https://github.com/SanketHarke",
+    "blog_name": "WELCOME",
+    "headname": "MEDICAL SUPPLY MANAGEMENT",
+    "user": "test",
+    "password": "test",
+    "login_image": "aple.jpg"
+
+  }
+}
